@@ -1,0 +1,109 @@
+{
+    "45717360": {
+        "number": {
+            "length": 16,
+            "luhn": true
+        },
+        "scheme": "visa",
+        "type": "debit",
+        "brand": "Visa/Dankort",
+        "prepaid": false,
+        "country": {
+            "numeric": "208",
+            "alpha2": "DK",
+            "name": "Denmark",
+            "emoji": "🇩🇰",
+            "currency": "DKK",
+            "latitude": 56,
+            "longitude": 10
+        },
+        "bank": {
+            "name": "Jyske Bank",
+            "url": "www.jyskebank.dk",
+            "phone": "+4589893300",
+            "city": "Hjørring"
+        }
+    },
+
+    "516793": {
+        "number": {},
+        "scheme": "mastercard",
+        "type": "debit",
+        "brand": "Debit",
+        "country": {
+            "numeric": "440",
+            "alpha2": "LT",
+            "name": "Lithuania",
+            "emoji": "🇱🇹",
+            "currency": "EUR",
+            "latitude": 56,
+            "longitude": 24
+        },
+        "bank": {}
+
+    },
+    "45417360": {
+        "number": {
+            "length": 16,
+            "luhn": true
+        },
+        "scheme": "visa",
+        "type": "credit",
+        "brand": "Traditional",
+        "prepaid": false,
+        "country": {
+            "numeric": "392",
+            "alpha2": "JP",
+            "name": "Japan",
+            "emoji": "🇯🇵",
+            "currency": "JPY",
+            "latitude": 36,
+            "longitude": 138
+        },
+        "bank": {
+            "name": "CREDIT SAISON CO., LTD.",
+            "url": "corporate.saisoncard.co.jp",
+            "phone": "(03)3988-2111"
+        }
+
+    },
+    "41417360": {
+        "number": {},
+        "scheme": "visa",
+        "country": {
+            "numeric": "840",
+            "alpha2": "US",
+            "name": "United States of America",
+            "emoji": "🇺🇸",
+            "currency": "USD",
+            "latitude": 38,
+            "longitude": -97
+        },
+        "bank": {
+            "name": "VERMONT NATIONAL BANK",
+            "url": "www.communitynationalbank.com",
+            "phone": "(802) 744-2287"
+        }
+
+    },
+    "4745030": {
+        "number": {
+            "length": 16,
+            "luhn": true
+        },
+        "scheme": "visa",
+        "type": "debit",
+        "brand": "Traditional",
+        "prepaid": null,
+        "country": {
+            "numeric": "826",
+            "alpha2": "GB",
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "emoji": "🇬🇧",
+            "currency": "GBP",
+            "latitude": 54,
+            "longitude": -2
+        },
+        "bank": {}
+    }
+}

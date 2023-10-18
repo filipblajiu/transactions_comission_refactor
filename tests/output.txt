@@ -1,0 +1,53 @@
+Testing 
+^ array:5 [
+  0 => array:7 [
+    "bin" => "45717360"
+    "binCountry" => "DK"
+    "inEu" => true
+    "amount" => "100.00"
+    "currency" => "EUR"
+    "eurAmount" => 100.0
+    "eurComission" => 1.0
+  ]
+  1 => array:7 [
+    "bin" => "516793"
+    "binCountry" => "LT"
+    "inEu" => true
+    "amount" => "50.00"
+    "currency" => "USD"
+    "eurAmount" => 47.242770202662
+    "eurComission" => 0.47
+  ]
+  2 => array:7 [
+    "bin" => "45417360"
+    "binCountry" => "JP"
+    "inEu" => false
+    "amount" => "10000.00"
+    "currency" => "JPY"
+    "eurAmount" => 63.092973793564
+    "eurComission" => 1.26
+  ]
+  3 => array:7 [
+    "bin" => "41417360"
+    "binCountry" => "US"
+    "inEu" => false
+    "amount" => "130.00"
+    "currency" => "USD"
+    "eurAmount" => 122.83120252692
+    "eurComission" => 2.46
+  ]
+  4 => array:7 [
+    "bin" => "4745030"
+    "binCountry" => "GB"
+    "inEu" => false
+    "amount" => "2000.00"
+    "currency" => "GBP"
+    "eurAmount" => 2305.8316788991
+    "eurComission" => 46.12
+  ]
+]
+.                                                                   1 / 1 (100%)
+
+Time: 00:00.026, Memory: 8.00 MB
+
+OK (1 test, 5 assertions)
